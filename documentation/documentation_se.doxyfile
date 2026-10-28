@@ -1,0 +1,14 @@
+PROJECT_NAME           = "SE - biblioteca drivers"
+PROJECT_BRIEF          = "Gestores dos LEDs e do tempo para o LPC1769"
+OUTPUT_DIRECTORY       = .
+INPUT                  = ../drivers/inc/led.h ../drivers/inc/delay.h
+FILE_PATTERNS          = *.h
+EXTRACT_ALL            = NO
+OPTIMIZE_OUTPUT_FOR_C  = YES
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+GENERATE_TREEVIEW      = YES
+QUIET                  = YES
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = YES

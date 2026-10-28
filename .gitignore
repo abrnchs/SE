@@ -1,0 +1,19 @@
+# Estado local da workspace MCUXpresso/Eclipse
+/.metadata/
+/.mcuxpressoide_packages_support/
+**/.settings/language.settings.xml
+**/*.launch
+
+# Ficheiros gerados pela compilação
+**/Debug/
+**/Release/
+
+# Documentação HTML gerada pelo Doxygen
+/documentation/html/
+/documentation/latex/
+
+# Logs gerados pelo IDE para exemplos de outros RTOS
+/*_TAD_logs/
+
+# Ficheiros locais do macOS
+**/.DS_Store
