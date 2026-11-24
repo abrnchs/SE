@@ -12,6 +12,10 @@
 /documentation/html/
 /documentation/latex/
 
+# Imagens PNG geradas a partir dos esquemas SVG
+/documentation/lab_06_esquema.png
+/documentation/lab_06_mapa_completo.png
+
 # Logs gerados pelo IDE para exemplos de outros RTOS
 /*_TAD_logs/
 

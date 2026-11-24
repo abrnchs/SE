@@ -1,7 +1,7 @@
 PROJECT_NAME           = "SE - biblioteca drivers"
-PROJECT_BRIEF          = "Gestores dos LEDs e do tempo para o LPC1769"
+PROJECT_BRIEF          = "Gestores de LEDs, tempo, LCD, botoes, RTC e FLASH para o LPC1769"
 OUTPUT_DIRECTORY       = .
-INPUT                  = ../drivers/inc/led.h ../drivers/inc/delay.h
+INPUT                  = ../drivers/inc/led.h ../drivers/inc/delay.h ../drivers/inc/lcdtext.h ../drivers/inc/buttons.h ../drivers/inc/rtc.h ../drivers/inc/flash.h
 FILE_PATTERNS          = *.h
 EXTRACT_ALL            = NO
 OPTIMIZE_OUTPUT_FOR_C  = YES
