@@ -33,8 +33,6 @@ Para atualizar a documentação local, abrir um terminal na pasta `documentation
 e executar `doxygen documentation_se.doxyfile`. O resultado fica em
 `documentation/html/index.html` (ficheiro gerado, excluido do Git).
 
-`documentation/SE_Lab04_Proposta_Gestor_LCD.pdf` é uma proposta anterior, com ligações P2.x diferentes das usadas nesta implementação.
-
 ## Laboratório 6
 
 O projeto `Lab_06` usa os novos gestores em `drivers/inc/buttons.h` e
